@@ -1,5 +1,5 @@
 import Breadcrumb from '../components/Breadcrumbs/Breadcrumb';
-import userThree from '../images/user/user-03.png';
+import userThree from '../images/user/user.jpg';
 
 const Settings = () => {
   return (
@@ -56,8 +56,8 @@ const Settings = () => {
                           type="text"
                           name="fullName"
                           id="fullName"
-                          placeholder="Devid Jhon"
-                          defaultValue="Devid Jhon"
+                          placeholder="full name"
+                          defaultValue="Audry Kajibwami"
                         />
                       </div>
                     </div>
@@ -74,8 +74,8 @@ const Settings = () => {
                         type="text"
                         name="phoneNumber"
                         id="phoneNumber"
-                        placeholder="+990 3343 7865"
-                        defaultValue="+990 3343 7865"
+                        placeholder="+243 974694473"
+                        defaultValue="+243 974694473"
                       />
                     </div>
                   </div>
@@ -118,8 +118,8 @@ const Settings = () => {
                         type="email"
                         name="emailAddress"
                         id="emailAddress"
-                        placeholder="devidjond45@gmail.com"
-                        defaultValue="devidjond45@gmail.com"
+                        placeholder="audrykaj@gmail.com"
+                        defaultValue="audrykaj@gmail.com"
                       />
                     </div>
                   </div>
@@ -136,8 +136,8 @@ const Settings = () => {
                       type="text"
                       name="Username"
                       id="Username"
-                      placeholder="devidjhon24"
-                      defaultValue="devidjhon24"
+                      placeholder="Audry2525"
+                      defaultValue="Audry2525"
                     />
                   </div>
 
